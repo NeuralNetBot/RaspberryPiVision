@@ -1,4 +1,5 @@
 #include "OI.h"
+#include <ntcore.h>
 
 int main()
 {
